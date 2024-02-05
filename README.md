@@ -3,7 +3,7 @@
   <li>I’m currently working on <b> Web Development And AI.</b></li>
   <li>I’m currently learning <b> Full-stack development.</b></li>
   <li>Ask me about <b> React, Node, next.js, MongoDB</b></li>
-  <li>How to reach me <link href="> maryamjavedshk@gmail.com </link></li>
+  <li>How to reach me <link href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"> maryamjavedshk@gmail.com </link></li>
 </ul>
 
 
