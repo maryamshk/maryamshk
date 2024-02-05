@@ -24,7 +24,6 @@
 <img align="left" alt="HTML5" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-<br>
 <img align="left" alt="MySQL" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="NodeJS" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
 <img align="left" alt="OpenCV" width="30px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"/>
