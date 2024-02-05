@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Maryam - Frontend Developer</h1>
-- I’m currently working on Web Developement And Ai.
+- I’m currently working on Web Development And AI.
 
-- I’m currently learning Full stack development.
+- I’m currently learning Full-stack development.
 
-- Ask me about React, Node, next.js, MongoDb
+- Ask me about React, Node, next.js, MongoDB
 
 - How to reach me maryamjavedshk@gmail.com
 
