@@ -1,11 +1,17 @@
 <h1 align="center">Hi, I'm Maryam - Frontend Developer</h1>
-- I’m currently working on Web Development And AI.
+<ul>
+  <li>I’m currently working on Web Development And AI.</li>
+  <li>I’m currently learning Full-stack development.</li>
+  <li>Ask me about React, Node, next.js, MongoDB</li>
+  <li>How to reach me maryamjavedshk@gmail.com</li>
+</ul>
+<!-- - I’m currently working on Web Development And AI.
 
 - I’m currently learning Full-stack development.
 
 - Ask me about React, Node, next.js, MongoDB
 
-- How to reach me maryamjavedshk@gmail.com
+- How to reach me maryamjavedshk@gmail.com -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
