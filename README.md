@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maryam - MERN Stack Developer</h1>
 <ul>
-  <li>I’m currently working on <b> Mern Stack Development And Blockchain.</b></li>
-  <li>Ask me about <b> React, Node, next.js, MongoDB</b></li>
+  <li>I’m currently exploring Blockchain and cyber Security.</b></li>
+  <li>Ask me about <b> React, Node, next.js, MongoDB and Smart Contracts</b></li>
 </ul>
 
 
