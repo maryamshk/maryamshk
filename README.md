@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Maryam - MERN Stack Developer</h1>
 <ul>
-  <li>I’m currently exploring Blockchain and cyber Security.</b></li>
+  <li>I’m currently exploring Blockchain and Cyber Security.</b></li>
   <li>Ask me about <b> React, Node, next.js, MongoDB and Smart Contracts</b></li>
 </ul>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maryam-javed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maryam-javed/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maryam-javed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maryam-javed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
