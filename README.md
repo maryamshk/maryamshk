@@ -1,6 +1,6 @@
 <ul>
   <li>I’m currently exploring Blockchain and Cyber Security.</b></li>
-  <li>Ask me about <b> React, Node, next.js, MongoDB and Smart Contracts</b></li>
+  <li>Experience includes React, Node.js, Hyperledger Fabric, and Smart Contracts.</b></li>
 </ul>
 
 
